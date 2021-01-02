@@ -1,6 +1,6 @@
 {
   "name": "vue-grid-layout-js-pure",
-  "version": "2.3.11",
+  "version": "0.0.01",
   "description": "this project source write by js(pure,only) ,A draggable and resizable grid layout, as a Vue component.",
   "keywords": [
     "grid",
